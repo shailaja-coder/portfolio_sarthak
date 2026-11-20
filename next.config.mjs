@@ -8,7 +8,7 @@ const nextConfig = {
 
  // GitHub repository name
  basePath: process.env.GITHUB_ACTIONS
-   ? "/portfolioweb"
+   ? "/portfolio_sarthak"
    : "",
 
 
